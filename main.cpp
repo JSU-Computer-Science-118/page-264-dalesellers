@@ -1,5 +1,3 @@
-// write your c// Dale Sellers // J00548890 // Page 264 // 11/9/22
-
 #include<iostream>
 using namespace std;
 int main()
@@ -29,5 +27,3 @@ cout<<num<<" is prime number"<<endl;
 
 return 0;
 }
-ode here
-
